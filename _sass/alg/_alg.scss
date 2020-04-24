@@ -20,10 +20,10 @@ header {
 
   a.logo {
     float: left;
-    max-height: 45px;
+    max-height: $nav-height;
 
     img {
-      max-height: $nav-height - 20;
+      max-height: 40px;
       margin-top: 10px;
       margin-bottom: 10px;
     }
