@@ -1,7 +1,40 @@
-<hr>
+<footer>
+  <div id="bio">
+    <div id="bio-image">
+      <img src="/static/mugshot.jpg" alt="Matt Swanson">
+    </div>
+    
+    <div id="bio-text">
+      <p>Hi. I'm <b>Matt Swanson</b>.</p>
+      <p>I do things and sometimes write about it here. I'm a Software Engineer from Indiana and I ship code at <a href="http://www.sep.com/">SEP</a>.</p>
+      
+      <div id="bio-social">
+        {% include social.html %}
+      </div>
+    </div>
+  </div>
 
-<div id="fine-print">
-  <p>
-    built with <a href="#">♥</a>, <a href="https://jekyllrb.com/">Jekyll</a>, and <a href="https://github.com/swanson/swanson.github.com">GitHub Pages</a> — read the <a href="/legal">fine print</a>
-  </p>
-</div>
+  {% unless page.skip_related %}
+  <aside>
+    <h3>Further reading</h3>
+    <ul class="posts">
+      {% if page.tags %}
+        {% assign sn = page.tags.first %}
+        {% for post in site.tags[sn] limit:3 %}
+          {% unless page.title == post.title %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endunless %}
+        {% endfor %}
+      {% else %}
+        {% for post in site.related_posts limit:3 %}
+          {% unless page.title == post.title %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endunless %}
+        {% endfor %}
+      {% endif %}
+    </ul>
+  </aside>
+  {% endunless %}
+</footer>
+
+{% include fine-print.html %}
