@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Our Infatuation with Change"
+categories:
+- blog
+tags:
+- practices
+---
+
+So I was watching this weeks [TWiG](http://twit.tv/show/this-week-in-google/122), and thought it was really interesting. [Leo Laporte](http://leoville.com/), [Jeff Jarvis](http://www.buzzmachine.com/), [Gina Trapani](http://ginatrapani.org/), and [Dan Patterson](http://danpatterson.com/)&nbsp;discussed the rapid and increasing rate of change we are going through in media syndication. &nbsp;They got into a pretty solid debate regarding our viewpoint of the change we are going through at the moment. &nbsp;A few of the viewpoints were, Jeff standing on the side of making sure we aren't obscuring our view of future change with our infatuation in the current rate of change, to which Dan claimed that it isn't a binary thought - whereas really we can experience both uniformly. &nbsp;I thought that was pretty fascinating, and I really liked Dan's energy throughout. &nbsp;I'd recommend popping over there and giving it a watch, but I am terrible with mending recomendee's. &nbsp;
+
+And in my opinion, I think they are both right. &nbsp;Yes, what Jeff said is a lesson we need to keep in mind and be aware of - but also yes Dan was correct to say it isn't binary. &nbsp;The rate of change can be effected by our perception, and it isn't detached from any bubble that could be created therein. &nbsp;But with that being said we also aren't at the height of innovation nor are we at the climax of any sort of disruption tempo, to which both we all assume will speed up over the next few years. &nbsp;So this needs to be a conversation that we take very seriously as time marches on. &nbsp;For now though we should let the bubbles stick to the IPO and Financial markets, because true innovation happens on a different plane and if we can remove any&nbsp;hinderences&nbsp;related - then we can push that plane to its most extreme. &nbsp; The funny thing about that plane of course is that by its very nature it must merge with our current layer of business - so the only thing we can do is bring these two together as soon as possible in every vertical market that we can. &nbsp;Once the entirety of it has merged, well... welcome to the future? &nbsp;
+
+I also want to talk for a minute about what Dan is doing with his professional life. &nbsp;He [left ABC](http://danpatterson.com/hello-world-i-have-resigned-from-abc-news/) in order to persue a vision for a new sort of media station that pushes world-wide political news to a tech based audience (à la Reuters meets Engadget's readers). &nbsp;I think it can be argued that NPR tries to catch this niche, which from my own experience I know it can be done much better. &nbsp;NPR a great media and news organization, but as far as catering to a tech based audience goes for this specific type of content - well, I think that is a massive market that is vastly untouched. &nbsp;I am really excited to be able to turn on a podcast or pop over to a website, and feel as at home with political news as I do when I head to [The Verge](http://theverge.com) for tech news. &nbsp;
+
+In summation, this excerpt from Dan's blog really puts a finer point on his future decisions - and this post for that matter. &nbsp;
+
+> _"Have faith in yourself. Keep your mind on good thoughts and your actions based on wisdom and reason. To be successful and happy don’t waste time. Worry is an energy rip-off. &nbsp;It does no good to worry. It causes nervousness and disease. Solve the problem rather than worry about it."_
