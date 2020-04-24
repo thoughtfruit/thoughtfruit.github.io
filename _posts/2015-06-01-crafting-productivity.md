@@ -9,7 +9,7 @@ tags:
 
 I have been obsessing over Merlin Mann the past few days, and for anyone who is familiar with him you will immediately understand why.  He is a brilliant person, with a ton of muddled and/or ridiculous points to make.  And I mean come on, what makes a better person than that?  
 
-He is the creator of [Inbox Zero](http://youtu.be/z9UjeTMb3Yk), the [Hipster PDA](http://www.43folders.com/2004/09/03/introducing-the-hipster-pda), stars on [Back to Work](http://5by5.tv/b2w), and has and continues to help create other such geekery and nonsense.  Personally, I love him for the talks that he does on the broad spectrum of time and attention (a la, [this](http://vimeo.com/7192517) and [this](http://youtu.be/QwRrpCWTiOY).
+He is the creator of [Inbox Zero](http://youtu.be/z9UjeTMb3Yk), the [Hipster PDA](http://www.43folders.com/2004/09/03/introducing-the-hipster-pda), stars on [Back to Work](http://5by5.tv/b2w), and has and continues to help create other such geekery and nonsense.  Personally, I love him for the talks that he does on the broad spectrum of time and attention (a la, [this](http://vimeo.com/7192517) and [this](http://youtu.be/QwRrpCWTiOY)).
 
 In fact, as I am sitting here typing this I am finishing up a little talk he gave to himself and his computer monitor regarding the fear we all have with our own lives.  The fear we all have to get things done, and the fear we all have in our own ability to fail in the face of progress.  These topics all hit home, and as you can imagine being twenty three years old is like asking for these topics to manifest so you can help them take over your mind.  
 
