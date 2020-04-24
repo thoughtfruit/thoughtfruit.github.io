@@ -4,7 +4,7 @@
     skills &amp; professional growth
   tag_name: growth
 
-- name: Delightful Products
+- name: Products Development
   desc: |
     Thoughts on building simple products that people love
   tag_name: delightful_products
@@ -14,7 +14,7 @@
     Lessons and experiences in validating, building, and supporting software products
   tag_name: product_dev
 
-- name: Practices
+- name: Practices & Productivity
   desc: |
     Real-world experiences with agile techniques &amp; 
     challenging dogmatic practices
@@ -26,18 +26,18 @@
     contexts
   tag_name: reflections
 
-- name: Data Science Lite
+- name: Programming Languages
   desc: |
-    Flailing around with data and trying to make sense of it all
+    Flailing around with new programming languages and documenting the journey
   tag_name: data_sci
 
-- name: Tangential
+- name: Edge Effect
   desc: |
     The intersection of software and other crafts &amp; 
     professions
   tag_name: tangential
 
-- name: Engineering in Android
+- name: Writing Web Software
   desc: |
-    Applying best-practices &amp; techniques to Android development
+    Applying best-practices &amp; techniques to Web development
   tag_name: android
