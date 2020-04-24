@@ -2,7 +2,7 @@
 layout: post
 title: "Creative Selection: How Apple builds products with demos, taste, and leverage"
 categories:
-- blog
+- writeup
 tags:
 - writeup
 ---
