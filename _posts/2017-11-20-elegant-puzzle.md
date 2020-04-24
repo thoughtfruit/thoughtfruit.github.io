@@ -7,7 +7,6 @@ tags:
 - writeup
 ---
 
-
 ### Chapter 2: Organizations
 
 #### 2.1: Sizing teams
