@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do More Faster"
+title: "Do More Faster by David Cohen & Brad Feld"
 categories:
 - writeup
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Art of the Start"
+title: "The Art of the Start by Guy Kawasaki"
 categories:
 - writeup
 tags:

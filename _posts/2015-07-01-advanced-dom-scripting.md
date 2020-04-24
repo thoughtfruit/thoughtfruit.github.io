@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advanced DOM Scripting"
+title: "Advanced DOM Scripting by Jeffrey Sambells"
 categories:
 - writeup
 tags:
