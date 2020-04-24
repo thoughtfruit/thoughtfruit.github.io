@@ -1,10 +1,10 @@
 - name: Growth
   desc: |
-    The journey towards senior engineer, with an emphasis on soft 
-    skills &amp; professional growth
+    The journey from Jr. to CTO, with an emphasis on the intersection of 
+    writing software, innovation, &amp; business development
   tag_name: growth
 
-- name: Products Development
+- name: Simple Products
   desc: |
     Thoughts on building simple products that people love
   tag_name: delightful_products
@@ -31,7 +31,7 @@
     Flailing around with new programming languages and documenting the journey
   tag_name: data_sci
 
-- name: Edge Effect
+- name: The Edge Effect
   desc: |
     The intersection of software and other crafts &amp; 
     professions
