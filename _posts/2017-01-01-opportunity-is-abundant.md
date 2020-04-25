@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Opportunity is Opportune"
+categories:
+- blog
+tags:
+- reflections
+---
+
+Opportunity is everywhere. &nbsp;It overwhelms us &nbsp;everyday, because let's be honest, it is overwhelming. &nbsp;Among other things it gets us asking things like "How do we know what is an opportunity that we want to take?", or "How do we know which opportunity to choose from the masses of things we are involved with day to day?" &nbsp;These are all serious and pertinent questions, that if we don't get answered at some point throughout our lives then we may not deduce opportunities correctly. &nbsp;So then the real question becomes how do we position ourselves to understand what is right and wasn't isn't right to do? &nbsp;Well, that is a hard question to answer. &nbsp;Before I say anything about that I should probably address what I mean by opportunity. &nbsp;I don't just mean the opportunity that refers to someone showing up on your doorstep and saying "Hey you are amazing, want to be x?!" &nbsp;Rather I am referring to the various avenues the brain can go down on a day to day basis, and the friendships you can generate, the opportunities that arise, and the daily education we embark on. &nbsp;We can't do everything, so what do we do? &nbsp;Well, what are your values? &nbsp;What religion are you? &nbsp;Don't overcomplicate it, and just ask yourself the most important questions, because that is how easy it should be to decide on what to accept or do. &nbsp;But for some reason it isn't, for some reason it is muddled. &nbsp;Life is complex, there is no denying it. &nbsp;Easy answers don't lead to easy questions. &nbsp;That's for sure. &nbsp;
+
+We still have to decide. &nbsp;We still have to figure it out. &nbsp;So what do we do? &nbsp;We experiment. &nbsp;That is the most important part of all of this. &nbsp;Get out there and experiment. &nbsp;Become a part of important works, and act on every hobby you can imagine. &nbsp;Deduce what is important to you, and then use that deduction to figure out what opportunities are important to you. &nbsp;If getting married isn't important to you, then don't do it. &nbsp;Same with anything. &nbsp;Be honest. &nbsp;Be real. &nbsp;There is less room for bullshit in our world everyday, so don't fill it up. &nbsp;Live who you truly are, and use opportunity to help you get there. &nbsp;
