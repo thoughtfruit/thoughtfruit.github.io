@@ -4,7 +4,7 @@ title: "Leaders are Coaches; Act Like It"
 categories:
 - blog
 tags:
-- growth
+- leadership
 ---
 
 Don't let this scenario represent your management style…

@@ -9,6 +9,12 @@
 #     Thoughts on building simple products that people love
 #   tag_name: delightful_products
 
+- name: Management & Leadership
+  desc: |
+    Thoughts on leading teams and people to be better, 
+    without the stress
+  tag_name: leadership
+
 - name: Product Development
   desc: |
     Lessons and experiences in validating, building, and supporting software products
