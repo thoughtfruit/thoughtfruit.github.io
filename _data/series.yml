@@ -29,7 +29,7 @@
 - name: Programming Exploration
   desc: |
     Flailing around with new programming languages and documenting the journey
-  tag_name: data_sci
+  tag_name: programming
 
 - name: The Edge Effect
   desc: |
@@ -40,4 +40,4 @@
 - name: Writing Web Software
   desc: |
     Applying best-practices &amp; techniques to Web development
-  tag_name: android
+  tag_name: webdev
