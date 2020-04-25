@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Freelancing: the Dream for Creatives"
+categories:
+- blog
+tags:
+- reflections
+---
+
+There is something truly amazing about some people, and something truly unique about their ability to create things that never used to exist. In fact, I’ve always wanted to be one of those people. I’ve always thought it would be amazing if I was someone who actually created things, and at first I thought that meant to create things with my hands. Come to find out, I am not so well suited to be a wood-worker or a craftsman or a hardware guy, and well, you can imagine the disappointment there in knowing that I wasn’t quite that type of person. And in fact, it took a little while for me to realize there was this entire other sort of reality that I could conquer. Something amazing and untraversed by me - as of yet... programming. &nbsp;
+
+> “You know what fascinates me? What fascinates me are the people who, in order to pay the mortgage, literally create something where nothing used to exist - every day.” - Merlin Mann
+
+That certainly does sound glamorous doesn’t it? It just has a beauty in the ring of it, “Someone who creates things”. Be it mental or physical, knowledge based or metal based, it really doesn’t matter. Creation is creation, pure and simple. It has the impact and ability to change the thoughts and opinions of people in the world around you and the ability to shape and transform thoughts of what can and, perhaps more importantly, should be done.
+
+The really funny thing is, although it can be something that is absolutely beautiful to you as a person and probably even something you passionately enjoy - it can also be stressful. As a person who does that for a living, I can absolutely say it is both amazing and stressful all at the same time. To know that you are helpinig others build things that are literally, most likely, as close to their imagination coming to life as possible - and that you are pursuing your passion. Well, that is an amazing combination, and one that pales the negatives in their inevitable comparison.
+
+Another funny thing is, you learn so much doing this _(being a freelancer)_.You learn about business, life, finances, your passion, the skills that you are working towards, how to deal with people, how to get things you would like, and just so much more. Being a freelancer really and truly touches upon everything you need to know as a person in a society, I think. You learn about motivation, productivity, how to keep going when you just can’t anymore, and how to stop when you just don’t know how. You learn all of the toughest lessons. You learn about gaining and creating followers, keeping people happy, how to be frugal, you’ll learn how to deal with the most difficult of people, and how to stand out amongst a crowd. Have I convinced you to become a freelancer yet? Well, I am not sure what I even would hope you’d say in response to that. Part of me wants to enlighten everyone that they have (more than likely) a skill that can make them a great freelancer, and that can embrue all these tough situations on them to learn from. And yet another part of me wants to say, “No no no, run for the hills. This isn’t a good profession.” In the end, though, what I suppose is **truly** funny is that regardless of how hard it may be at times - it is still the best thing I have ever done. So take that for what you will, and make a choice. Don’t let another day go to waste.
