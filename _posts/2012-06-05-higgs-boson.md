@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We Found the <stike>Boss Man</stike> Boson"
+title: "We Found the <strike>Boss Man</strike> Boson"
 categories:
 - blog
 tags:
