@@ -4,7 +4,7 @@ title: "Backbone.js was the Backbone"
 categories:
 - blog
 tags:
-- programming
+- webdev
 ---
 
 I have been thinking about JavaScript a lot lately, and that is partially due to my job. My job entails being the sole front-end developer on a pretty large web application. It is a project for the second largest bidding site in the US, and as you can imagine employs a lot of JavaScript usage throughout. When I started there I was mainly a back-end guy who wanted to trasnfer to front-end out of passion for the languages (HTML5/CSS3/etc). I quickly came to realize I would have to pick up JavaScript rather quickly as a result of the framework already set up for the project I was working on. And as you can imagine, I have been focusing on learning as much jQuery, JavaScript and Backbone as I can. We use Backbone, and at first that was a pretty deep-water jump into the pool of JS, for a beginner. But it has really made me a better programmer overall.

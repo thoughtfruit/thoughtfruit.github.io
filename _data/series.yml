@@ -4,10 +4,10 @@
     writing software, innovation, &amp; business development
   tag_name: growth
 
-- name: Simple Products
-  desc: |
-    Thoughts on building simple products that people love
-  tag_name: delightful_products
+# - name: Simple Products
+#   desc: |
+#     Thoughts on building simple products that people love
+#   tag_name: delightful_products
 
 - name: Product Development
   desc: |
