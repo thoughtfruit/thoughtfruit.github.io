@@ -47,3 +47,9 @@
   desc: |
     Applying best-practices &amp; techniques to Web development
   tag_name: webdev
+
+- name: Poetry & Fiction
+  desc: |
+    Poetic writing & stories, because hard science isn't the only 
+    thing that's important
+  tag_name: fiction
