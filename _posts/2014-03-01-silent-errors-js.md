@@ -15,12 +15,12 @@ Here’s an example, taken from Wikipedia, of what B looked like:
 
 ```c
 printn(n, b) { 
-	extern putchar;
-	auto a;
+  extern putchar;
+  auto a;
 
-	if (a = n / b) 
-		printn(a, b);
-		putchar(n%b + ‘0’);
+  if (a = n / b) 
+    printn(a, b);
+    putchar(n%b + ‘0’);
 }
 ```
 
@@ -34,11 +34,11 @@ Though there is one caveat, and let’s take a look at the code below to see wha
 
 ```javascript
 function foo (bar) {
-	return 
-		// New & Empty line, silent error gets thrown here
-		{
-			bar: 'baz';
-		}
+  return 
+    // New & Empty line, silent error gets thrown here
+    {
+      bar: 'baz';
+    }
 }
 ```
 
