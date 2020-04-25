@@ -37,6 +37,12 @@
     Exploring my hobby of programming and documenting the journey
   tag_name: programming
 
+# - name: Digital Marketing
+#   desc: |
+#     In the modern era it isn't just about doing the thing, it's about
+#     marketing the thing
+#   tag_name: marketing
+
 - name: The Edge Effect
   desc: |
     The intersection of software and other crafts &amp; 

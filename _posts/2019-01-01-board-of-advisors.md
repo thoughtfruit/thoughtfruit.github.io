@@ -4,7 +4,7 @@ title: "Create a Board of Advisors"
 categories:
 - blog
 tags:
-- reflections
+- growth
 ---
 
 Whose in your personal circle? Who do you keep around as part of your own board of advisors?
