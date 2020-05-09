@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Why I’m Building a SASS App, & Giving Away All My Other Content"
+title: "Why I’m Building a SASS App"
 categories:
-- blog 
+- blog
 tags:
 - product_dev
+favorite: true
 ---
 
 I love the beginning. It’s the most uncertain and scary place to be. It’s the place I think more people should spend more time.
