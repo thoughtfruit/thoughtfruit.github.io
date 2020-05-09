@@ -2,9 +2,9 @@
 layout: post
 title: "Why I’m Building a SASS App"
 categories:
-- blog
+- notblog
 tags:
-- product_dev
+- notproduct_dev
 favorite: true
 ---
 
