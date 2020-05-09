@@ -16,10 +16,13 @@ And, with more perspective, I know a lot of those people struggle to build usef
 With even more perspective, I realize that people WANT to build products more **now** than **ever**.
 
 So with all that perspective, I hope to iterate over them, with my personal perspective as the base case, and let each step build up a better world-view, that can help other people. It’s powerful, that’s why I love perspective. 
+
+```ruby
  E.g.
 [@perspectives].inject({personal}) do |perspective|
 	world_view_built from: perspective
 end
+```
 
 The most important part of this, is tweaking what goes in the @perspectives array at the beginning. 
 
