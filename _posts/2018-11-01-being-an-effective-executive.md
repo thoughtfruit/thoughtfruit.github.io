@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - leadership
-favorite: true
 ---
 
 Spending Sunday morning re-reading the Effective Executive by Peter Drucker by the fire.

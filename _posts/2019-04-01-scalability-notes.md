@@ -5,7 +5,6 @@ categories:
 - blog 
 tags:
 - webdev 
-favorite: true
 ---
 
 Notes from posts on the blog [High Scalability](http://highscalability.com/).

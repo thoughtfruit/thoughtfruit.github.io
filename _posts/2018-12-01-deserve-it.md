@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - growth
+favorite: true
 ---
 
 If you want to get what you want, you must deserve what you want.

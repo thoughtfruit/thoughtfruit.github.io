@@ -5,7 +5,6 @@ categories:
 - blog
 tags:
 - practices
-favorite: true
 ---
 
 Starting is the hardest thing there is, bar none. &nbsp;I don’t care if it is a project, homework, or a corporate business plan; it is always difficult. &nbsp;It is so difficult that typically people don’t start at all. &nbsp;They follow down the road of procrastination and that leads them to not getting meaningful work accomplished. &nbsp;I’ve certainly talked about doing meaningful work on this blog before, and I stand by what I’ve said. &nbsp;I’ve also certainly talked about fiddling, and how it can be detrimental and helpful to productivity all at the same time - again, which I stand by. &nbsp;But aside from all that I think we just need to start things more often.&nbsp;
