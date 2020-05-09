@@ -5,6 +5,7 @@ categories:
 - writeup
 tags:
 - writeup
+favorite: true
 ---
 
 by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler

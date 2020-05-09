@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - practices
+favorite: true
 ---
 
 > “All I gotta do is go and get a copy of XCode 4.2 and I’m good to go. I’ll just slap this together and retire on my angry bird.”&nbsp;- Merlin Mann

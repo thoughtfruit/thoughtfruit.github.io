@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - leadership
+favorite: true
 ---
 
 Don't let this scenario represent your management style…

@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - leadership
+favorite: true
 ---
 
 ### Three Powerful Conversations Managers Must Have To Develop Their People

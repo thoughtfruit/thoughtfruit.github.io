@@ -5,6 +5,7 @@ categories:
 - blog
 tags:
 - tangential
+favorite: true
 ---
 
 I’ve been experimenting with using Emacs [Org-Mode tables](http://orgmode.org/manual/Tables.html) to track my key performance indicators for my different side projects.
