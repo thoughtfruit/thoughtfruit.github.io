@@ -7,8 +7,6 @@ tags:
 - product_dev
 ---
 
-# Why I’m Building a SASS App, & Giving Away All My Other Content
-
 I love the beginning. It’s the most uncertain and scary place to be. It’s the place I think more people should spend more time.
 
 I try to keep things in perspective, and realize that regardless of what I think there’s a lot of people that struggle to start new things. 
