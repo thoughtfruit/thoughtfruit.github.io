@@ -3,9 +3,40 @@ layout: default
 title: writing on software, book writeups, projects
 ---
 
+<style>
+  .circle {
+    width: 80px;
+    float: left;
+    background: #eee;
+    border-radius: 50px;
+  }
+</style>
+
 {% include header.html %}
 
-<div id="series">
+<h3>I want to...</h3>
+
+<div class="circle">
+  Learn to code
+</div>
+
+<div class="circle">
+  Become a web developer
+</div>
+
+<div class="circle">
+  Build a multi-million dollar app
+</div>
+
+<div class="circle">
+  Build & scale a multi-million dollar business
+</div>
+
+<div class="circle">
+  Fix your team/process in your growing company
+</div>
+
+<!-- <div id="series">
   {% for series in site.data.series %}
     <h3 id="{{ series.tag_name }}">{{ series.name }}</h3>
     <p>{{ series.desc }}</p>
@@ -31,7 +62,7 @@ title: writing on software, book writeups, projects
   </ul>
 
 </div>
-
+ -->
 <hr/>
 
 {% include fine-print.html %}
