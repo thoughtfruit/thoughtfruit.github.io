@@ -240,16 +240,18 @@ Kinesthetic
 <div class="clearfix" style="clear: both; overflow: hidden; display: block;"></div>
 </center>
   
+  <hr />
+  <div class="clearfix" style="clear: both; overflow: hidden; display: block;"></div>
+  
 <div id="archive">
+  <h2>Articles</h2>
 {% for post in site.posts limit: 10 %}
 <ul>
   <li {% if post.favorite and post.layout != "writeup" %}class="favorite"{% endif %}>
     <a href="{{ post.url }}">{{ post.title }}{% if post.layout == "writeup" %} (Book Writeup){% endif %}</a>
-    <p>
-      {{ post.excerpt }}
-    </p>
   </li>
   {% if forloop.last %}</ul>{% endif %}
+</ul>
 {% endfor %}
 </div>
 <div class="clearfix" style="clear: both; overflow: hidden; display: block;"></div>
