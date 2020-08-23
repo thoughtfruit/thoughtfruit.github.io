@@ -103,9 +103,3 @@ I’ve personally been rebuilding these subsystems over and over, to industry ac
  You may not like me, because of the problems I’ve had in the past with my previous course, but you have to admit I know what I’m doing in this area and I’m qualified to do this. 
 
 I will also win you over by giving back to you, for years and years, for free, whilst maintaining a high level of personal integrity by ONLY committing to things I can do.
-
-## What are the risks to this project?
-
-
-
-## What’s the timeline?
