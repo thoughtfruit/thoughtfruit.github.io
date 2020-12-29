@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I’m Building a SASS App"
+title: "Why I’m Building a SASS App for FUN"
 categories:
 - notblog
 tags:
@@ -96,10 +96,3 @@ It’s not a podcast CMS - for that check out [anchor.fm] or [fireside.fm], thos
 It’s not a podcast app generator, but for that you can use #nocode solutions (more posts on this as we get there), and we will integrate with them.
 
 It won’t be a heavy UI app initially, and mostly will work via an API. BUT, there will be a UI to build your connection to our API in a web interface, but again, preferred interaction will be via our API.
-
-## Why am I the right person to do this? 
-
-I’ve personally been rebuilding these subsystems over and over, to industry acclaim (our companies listed as Most Innovative in FastCompany for years), for 9 years and I’m one of the most qualified in the world - so why not? 
- You may not like me, because of the problems I’ve had in the past with my previous course, but you have to admit I know what I’m doing in this area and I’m qualified to do this. 
-
-I will also win you over by giving back to you, for years and years, for free, whilst maintaining a high level of personal integrity by ONLY committing to things I can do.
